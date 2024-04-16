@@ -32,3 +32,19 @@ h2{
     text-align: center;
     
 }
+ATUALIZAÇÂO 16/04
+@charset "UTF-8";
+h1
+{ font-size: 4em;
+    background-color: rgb(178, 184, 231);
+    padding: 25px;
+ text-align: center;
+ text-shadow: 15px 15px 15px rgb(22, 22, 117);
+ 
+
+    
+
+}
+body{
+    background-color: rgb(228, 227, 239);
+}
