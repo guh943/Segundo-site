@@ -1,12 +1,21 @@
 
 @charset "UTF-8";
 body{
-    background-image: linear-gradient(to left, rgb(184, 188, 232), rgb(239, 228, 176));
+    background-image: linear-gradient(to right, rgb(160, 167, 246), rgb(239, 228, 176));
 
 }
-
+footer {
+    background-color: #050406;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.segunda{
+    background-color: rgb(215, 178, 249);
+    color: black;
+}
 main{
-    background-color:  rgb(237, 228, 228);
+    background-color:  rgb(228, 237, 236);
     width: 1500px;
     padding: 10px;
     box-shadow: 10px 10px 10px;
@@ -23,12 +32,7 @@ main{
     background-color: rgb(178, 184, 231);
     padding: 25px;
  text-align: center;
- text-shadow: 15px 15px 15px rgb(22, 22, 117);
- 
-
-    
-
-}
+ text-shadow: 15px 15px 15px rgb(22, 22, 117);}
 body{
     background-color: rgb(228, 227, 239);
 }
@@ -36,8 +40,18 @@ body{
     background-color: rgb(10, 21, 17);
     color: blue;
 }
+.m1{
+    background-color: rgb(229, 78, 78);
+}
+.m2{
+    background-color: chartreuse;
+}
 mark{
     background-color: rgb(181, 162, 199);
+    
 }
-.text{
-    margin-left
+.texto{
+    text-align: right;
+    margin-right: 400px;
+    font-style: oblique;}
+
