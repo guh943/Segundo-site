@@ -4,6 +4,9 @@ body{
     background-image: linear-gradient(to right, rgb(160, 167, 246), rgb(239, 228, 176));
 
 }
+a {
+    text-decoration: none;
+}
 footer {
     background-color: #050406;
     color: white;
@@ -70,3 +73,6 @@ mark{
     text-align: right;
     margin-right: 400px;
     font-style: oblique;}
+ #paragrafo1{
+    background-color
+ }
