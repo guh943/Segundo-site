@@ -9,15 +9,31 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+    width: 2000;
+    font-size: larger;
+    font-size: xx-large;
+}
+.quarta{
+    background-color:  rgb(174, 139, 231);
+    color: black;
+    margin-left: 90px;
+    
+
+}
+.terceira{
+
+    background-color:  rgb(174, 139, 231);
+    color: black;
+    margin-left: 90px;
 }
 .segunda{
-    background-color: rgb(215, 178, 249);
+    background-color: rgb(174, 139, 231);
     color: black;
 }
 main{
     background-color:  rgb(228, 237, 236);
-    width: 1500px;
-    padding: 10px;
+    width: 1400px;
+    padding: 50px;
     box-shadow: 10px 10px 10px;
     margin: 0px;
     border-radius: 10px;
@@ -54,4 +70,3 @@ mark{
     text-align: right;
     margin-right: 400px;
     font-style: oblique;}
-
